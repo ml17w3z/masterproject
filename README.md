@@ -19,3 +19,5 @@ The Gazebo world is made by Adrian Bonus, the memeber of robot club of Universit
 9:Once the callback information is being sending in the terminal window, run test.py in another new terminal window.
 
 Tip: If you are a memeber of robot club of University of Leeds, you can use our container to run lis.py and test.py without the preparations steps. Just roslaunch custom_wolrds door_world.launch and run lis.py then test.py in other container terminal windows.
+
+Tip2:The videos pull.mp4 and push demonstrated the results of running code.
