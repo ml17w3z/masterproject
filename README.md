@@ -1,4 +1,4 @@
-# masterproject
+# masterproject:open the door task
 1:Before run the code, please make sure you have prepared all the environment needed including ROS,Tiago.
 
 2:Clone the src folder into one of your workspace's package
